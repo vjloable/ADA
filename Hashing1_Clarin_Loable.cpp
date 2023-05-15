@@ -1,3 +1,8 @@
+// Hashing Problem #1
+// Authors:  
+//          GC Neal Christian S. Clarin
+//          Vince Japheth F. Loable
+
 #include <iostream>
 #include <string>
 using namespace std;
